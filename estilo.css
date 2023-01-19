@@ -1,0 +1,89 @@
+body{
+	font-family: arial, helvetica;
+	background-color: #ffffff;
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+.GAME {
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100px;
+	width: 100px;
+	text-decoration:none;
+	font-weight: 700;
+	font-size: 35px;
+	padding: 22px 60px;
+	color:#333333;
+	background-color:#FFD27D;
+	border-color: #d8d8d8;
+	border-width: 4px;
+	border-style: solid;
+	border-radius:35px;
+	transition: background-color, width 1s;
+}
+	  
+.GAME {
+	margin: auto;
+}
+
+.GAME:hover{
+	width: 700px;
+	height: ;
+	align-items: ;
+}
+
+.INTRODUCCION {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100px;
+	width: 100px;
+	text-decoration:none;
+	font-weight: 700;
+	font-size: 35px;
+	padding: 25px 150px;
+	color:#333333;
+	background-color:#FFD27D;
+	border-color: #d8d8d8;
+	border-width: 4px;
+	border-style: solid;
+	border-radius:35px;
+	transition: background-color, width 1s;
+}
+	  
+.INTRODUCCION {
+	margin: auto;
+}
+
+.INTRODUCCION:hover{
+	width: 700px;
+	height: ;
+	align-items: ;
+}
+
